@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hSGN65iGygE=",
+  "success": true,
+  "projectFilePath": "F:\\Malaysia Assignment\\Malaysia Assessment v1.0\\WeatherForecast_BE\\WeatherForecast.Services\\WeatherForecast.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanzeel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Tanzeel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
